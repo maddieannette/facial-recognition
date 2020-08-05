@@ -1,6 +1,6 @@
 {
   "name": "facialrecognition",
-  "homepage": "http://maddieannette.github.io/facial-recognition",
+  "homepage": "https://github.com/maddieannette/facial-recognition.git",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
